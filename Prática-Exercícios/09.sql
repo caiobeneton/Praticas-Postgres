@@ -1,0 +1,1 @@
+insert into compras (id_cliente, id_produto) values (8, 10);

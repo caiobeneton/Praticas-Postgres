@@ -1,0 +1,1 @@
+insert into produtos (nome, preco) values ('Macbook Pro 13"', 17000);

@@ -1,0 +1,1 @@
+update produtos set preco = 8000 where nome = 'Pelúcia Strange Planet com Gatinho';
